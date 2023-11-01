@@ -2,10 +2,4 @@ github_users:
   - qiankunlee
 
 github_repos:
-  - ymy4323460/CaSN
-  - ymy4323460/HATCH
-  - ymy4323460/Counterfactual-Debias-Models
-  - ymy4323460/CPR
-  - ymy4323460/CBR
-  - huawei-noah/trustworthyAI/tree/master/research/CausalVAE
-  - ymy4323460/CaRI
+  - None
