@@ -6,7 +6,7 @@ subtitle: University of Chinese Academy of Sciences
 
 profile:
   align: right
-  image: 1.jpg
+  image: presonal.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
