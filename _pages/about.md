@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science, University of College London
+subtitle: University of Chinese Academy of Sciences
 
 profile:
   align: right
