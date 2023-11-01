@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: ymy4323460.github.io/sitemap.xml
